@@ -12,8 +12,6 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-vaibhavbaliyan2002.com-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://vaibhav-portfolio-chi-one.vercel.app)
-&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-baliyan-cr7)
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-500%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Zero_00)
@@ -32,7 +30,7 @@ I care about code that is measurably better — not just working, but fast, secu
 
 ```js
 const vaibhav = {
-  location    : "Ghaziabad, India 🇮🇳",
+  location    : "New Delhi, India 🇮🇳",
   experience  : "Software Programmer @ Colt Technology Services (Dec 2024 – Dec 2025)",
   built       : ["25+ REST APIs for HireNest", "Python data pipelines (3x efficiency)", "JWT + RBAC auth systems"],
   metrics     : ["40% API latency reduction", "30+ production bugs resolved", "LeetCode Top 10% (Rank 2812)"],
@@ -40,32 +38,6 @@ const vaibhav = {
   openTo      : "Junior / Mid SWE roles · Remote friendly · Delhi NCR",
 };
 ```
-
----
-
-## Experience
-
-### Software Programmer Apprentice — Colt Technology Services
-**Dec 2024 – Dec 2025 · Gurugram**
-
-<table>
-<tr>
-<td width="50%">
-
-- 🚀 Built and maintained backend APIs across **2+ user roles** supporting multiple production workflows
-- ⚡ Reduced API response time by **40%** through MongoDB indexing and query optimization
-- 🔐 Implemented **JWT + RBAC** authentication protecting all role-based API access
-
-</td>
-<td width="50%">
-
-- 🐍 Built **Python data processing pipelines** improving extraction efficiency by **3x**
-- 🐛 Debugged and resolved **30+ production issues**, reducing turnaround time by **20%**
-- 🏗️ Engineered scalable Express services handling high-volume concurrent requests
-
-</td>
-</tr>
-</table>
 
 ---
 
